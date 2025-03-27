@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Mar 26 11:32:57 GMT 2025","Wed Mar 26 11:32:59 GMT 2025","2528","","Login Functionality","","","","should appear as Login With Microsoft button",""
+"failed","Wed Mar 26 11:31:14 GMT 2025","Wed Mar 26 11:31:27 GMT 2025","13554","","Search Feature","","","","should show home page and Retail Banking Group is displayed",""
+"passed","Wed Mar 26 11:31:27 GMT 2025","Wed Mar 26 11:32:25 GMT 2025","57345","","Search Feature","","","","should click on global search icon, moves to search page, type liability balance sheet     and liability balance sheet should be displayed",""
